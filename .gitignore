@@ -1,0 +1,16 @@
+# Compiled source and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller distribution build outputs
+build/
+dist/
+*.spec
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
